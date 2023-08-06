@@ -1,0 +1,28 @@
+{
+  "admin": [
+    {
+      "id": 1,
+      "name": "Purvang",
+      "email": "purvang@gmail.com",
+      "password": "123456"
+    }
+  ],
+  "user": [
+    {
+      "id": 1,
+      "name": "parth",
+      "email": "parth@gmai.com",
+      "password": "123456",
+      "mobile": 1234567890,
+      "status": "Unblock"
+    },
+    {
+      "id": 2,
+      "name": "Pakul",
+      "email": "pakul@gmai.com",
+      "password": "123456",
+      "mobile": 1563567890,
+      "status": "Unblock"
+    }
+  ]
+}
