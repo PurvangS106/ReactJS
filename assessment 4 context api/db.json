@@ -1,0 +1,36 @@
+{
+  "user": [
+    {
+      "id": "1683989415764",
+      "name": "Parth Shingala",
+      "email": "Parth@gmail.com",
+      "password": "123456",
+      "mobile": "7225639586",
+      "status": "Block"
+    },
+    {
+      "id": "1684075069202",
+      "name": "Purvang Suhagiya",
+      "email": "suhagiyapurvang006@gmail.com",
+      "password": "2110",
+      "mobile": "5445454554",
+      "status": "Block"
+    },
+    {
+      "id": "1684075817126",
+      "name": "Pragnesh Patel",
+      "email": "pragnesh@gmail.com",
+      "password": "5675",
+      "mobile": "5236987410",
+      "status": "Block"
+    },
+    {
+      "id": "1684394706064",
+      "name": "Jay Bhavsar",
+      "email": "jaybhavsar3374@gmail.com",
+      "password": "142536",
+      "mobile": "1425369874",
+      "status": "Block"
+    }
+  ]
+}
